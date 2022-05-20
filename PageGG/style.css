@@ -1,0 +1,75 @@
+.background-pixel {
+    background-image: url(background.front.jpg);
+}
+
+b{     
+  font-weight: 700;
+  color: #345f80; 
+}
+
+span {
+  font-weight: 500;
+  color: #824147;
+}
+
+body{
+  font-family: 'Dosis', sans-serif;
+}
+
+.info-text {
+  font-size: 25px;
+  font-weight: 300;
+  color: #9f7cac;
+}
+
+.tittle-list{
+  font-size: 30px;
+  font-weight: 500;
+  color: #824147;
+}
+
+.ocup-subtitle{
+  font-size: 40px;
+  font-weight: 400;
+  color: #8b444a;
+}
+
+.info-title{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 45px;
+  margin: inherit;
+  font-weight: 500;
+  color: #1a1420;
+}
+
+.name-title{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 70px;
+  font-weight: 500;
+  color: #1a1420;
+} 
+
+.about {
+  width: 850px;
+}
+
+.first-sec{
+  width: 850px;
+}
+
+.imagen{
+  border-radius: 53px;
+  opacity: 100% !important;
+}
+
+.about-box {
+  background: #2b4c5b;
+  background: linear-gradient(90deg, #2b4c5b 0%, #48070d 100%);
+  width: 850px;
+}
+
+.first-box{
+  background: #2b4c5b;
+  background: linear-gradient(90deg, #2b4c5b 0%, #48070d 100%);
+  display: inline-flex;
+}
